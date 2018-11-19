@@ -1,0 +1,7 @@
+.navigation {
+  background: maroon;
+  color: white;
+  /*flex-direction: column;*/
+  /*flex: 1;*/
+  height: 100%;
+}
